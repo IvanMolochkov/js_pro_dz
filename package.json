@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "1": "node ./1-map/map.js",
     "2": "node ./2-dice/dice.js",
-    "3": "node ./3-birthday/birthday.js"
+    "3": "node ./3-birthday/birthday.js",
+    "4": "node ./4-timer/timer.js"
   },
   "author": "Ivan",
   "license": "ISC"
